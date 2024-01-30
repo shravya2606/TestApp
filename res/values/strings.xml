@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HotelManagementSystem</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="name">Hotel Management System</string>
+    <string name="email">Enter your mail</string>
+
+
+</resources>
